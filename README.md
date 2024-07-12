@@ -23,7 +23,7 @@ Enjoy seamless and secure transactions with our integrated Braintree payment gat
 
 ### Search and Filter Options
 
-Effortlessly find the products you're looking for using our intuitive search and powerful filtering options. Filter by plant type, growth conditions, medicinal properties, and more to quickly narrow down your choices.
+Effortlessly find the products you're looking for using our intuitive search and powerful filtering options. Filter by plant name, price and more to quickly narrow down your choices.
 
 
 https://github.com/user-attachments/assets/71ca8591-4d11-4dab-82a5-595d7f5ef6cc
