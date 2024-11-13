@@ -53,8 +53,6 @@ Share your experiences with GreenPetals products and read reviews from fellow pl
 - **Payment Gateway**: Braintree
 - **Other Tools**: Bootstrap (for real-time updates)
 
-**Important Note : Current Admin is bob@gmail.com Password:123123 To signup as admin change UserRole in auth.js under Controllers to 1 which is 0 for customers**
-
 ## Contributing
 
 We welcome contributions to improve GreenPetals! If you'd like to contribute:
